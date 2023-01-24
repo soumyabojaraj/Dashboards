@@ -16,7 +16,5 @@ The top languages, databases, platforms,etc of the current and future technology
 
 
 
-TO VIEW THE EXCEL DASHBOARD OPEN THE FILE 
 
-Incentive_Compensation_Management_Conduct_Risk-End.xlsx
 
